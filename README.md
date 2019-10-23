@@ -14,7 +14,9 @@ Content in the first column | Content in the second column
 
 f you want to embed images, this is how you do 
 it:
-
+```markdonw
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # chinese-xinhua
