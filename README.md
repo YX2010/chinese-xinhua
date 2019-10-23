@@ -1,4 +1,4 @@
--[x] No space
+- [x] with space
 # chinese-xinhua
 中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
