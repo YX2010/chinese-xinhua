@@ -6,6 +6,11 @@
 - [x] with space
 - [ ] with no space
 - [] no space in list
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | content from cell 2
+Content in the first column | Content in the second column
+
 # chinese-xinhua
 中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
